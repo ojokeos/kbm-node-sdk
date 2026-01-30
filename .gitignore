@@ -7,5 +7,4 @@ node_modules
 .env.development
 .env.test
 .env.production      
-dist
 *.ts.md
